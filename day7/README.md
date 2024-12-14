@@ -1,6 +1,6 @@
 # [Day 7](https://adventofcode.com/2024/day/7)
 
-## Problem Statement
+## Part One
 
 The engineers need to perform final calibrations, but some young elephants have stolen all the operators from their calibration equations! Your task is to determine which test values can be produced by placing any combination of operators into their calibration equations.
 
